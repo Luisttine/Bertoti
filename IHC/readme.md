@@ -1,8 +1,13 @@
+Usando como base os tópicos descritos no site https://www.w3.org/WAI/WCAG21/quickref/ cito aqui exemplos e contra-exemplos de cada heurística
+
 # AVALIAÇÃO HEURISTICA
   # 1 - Perceivable
   ## 1.1 Text alternatives
+  Alternativas de texto são para qualquer conteúdo que não seja de texto para que possa ser alterado para outras formas que as pessoas precisem, como letras grandes, brailes, descrição de imagem, etc.
   
   ### Exemplo de boa utilização:
+  ![alt text for screen readers](/path/to/image.png "Text to show on mouseover")
+  
   
   ### Contra exemplo:
   
