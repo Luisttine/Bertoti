@@ -1,12 +1,93 @@
 # AVALIAÇÃO HEURISTICA
-
-  ## 1.1. Text alternatives
+  # 1 - Perceivable
+  ## 1.1 Text alternatives
   
   ### Exemplo de boa utilização:
   
   ### Contra exemplo:
+  
     
-  ## 1.2. Time-based Media
+  ## 1.2 Time-based Media
+  
+  ### Exemplo de boa utilização:
+  
+  ### Contra exemplo:
+  
+
+  ## 1.3 Adaptable
+  
+  ### Exemplo de boa utilização:
+  
+  ### Contra exemplo:
+  
+  
+  ## 1.4 Distinguishable
+  
+  ### Exemplo de boa utilização:
+  
+  ### Contra exemplo:
+  
+
+# 2 - Operable  
+  ## 2.1 Keyboard Accessible
+  
+  ### Exemplo de boa utilização:
+  
+  ### Contra exemplo:
+  
+  
+  ## 2.2 Enough Time
+  
+  ### Exemplo de boa utilização:
+  
+  ### Contra exemplo:
+  
+  
+  ## 2.3 Seizures and Physical Reactions
+  
+  ### Exemplo de boa utilização:
+  
+  ### Contra exemplo:
+  
+  
+  ## 2.4 Navigable
+  
+  ### Exemplo de boa utilização:
+  
+  ### Contra exemplo:
+  
+  
+  ## 2.5 Input Modalities
+  
+  ### Exemplo de boa utilização:
+  
+  ### Contra exemplo:
+  
+  
+# 3 - Understandable  
+  ## 3.1 Readable
+  
+  ### Exemplo de boa utilização:
+  
+  ### Contra exemplo:
+  
+ 
+  ## 3.2 Predictable
+  
+  ### Exemplo de boa utilização:
+  
+  ### Contra exemplo:
+  
+   
+  ## 3.3 Input Assistance
+  
+  ### Exemplo de boa utilização:
+  
+  ### Contra exemplo:
+  
+   
+# 4 - Robust  
+  ## 4.1 Compatible
   
   ### Exemplo de boa utilização:
   
