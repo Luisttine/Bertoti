@@ -6,7 +6,7 @@ Usando como base os tópicos descritos no site https://www.w3.org/WAI/WCAG21/qui
   Alternativas de texto são para qualquer conteúdo que não seja de texto para que possa ser alterado para outras formas que as pessoas precisem, como letras grandes, brailes, descrição de imagem, etc.
   
   ### Exemplo de boa utilização:
-  Neste exemplo possui, mesmo que pouca coisa, uma descrição da imagem na tag alt.
+  Neste exemplo possui, mesmo que pouca coisa, uma descrição identificando o anime da imagem na tag alt.
   ![exemplo de texto alternativo na imagem](Imagens/heuristica1-exemplo.png )
 
   
