@@ -16,18 +16,34 @@ Usando como base os tópicos descritos no site da [WCAG/W3C](https://www.w3.org/
 
     
   ## 1.2 Time-based Media
-  
+  ## 1.2.2 Captions (Prerecorded) - Level A
+  Legenda são requeridas para todos os videos pre-gravados contendo sincronização de mídia, exceto quando a mídia é uma mídia alternativa para texto e sendo claramente uma "label". 
   ### Exemplo de boa utilização:
-  
+  Neste exemplo, temos o youtube como bom exemplo e podemos ver que o vídeo está em outro idioma (inglês) e dispõem de legenda para conseguirmos entender melhor o que estão falando durante o vídeo.
+  ![bom exemplo de legenda em vídeos](Imagens/Heuristica2-aexemplo.jpeg )
   ### Contra exemplo:
-  
+  Por outro lado, temos o instagram em que nem todos os video são legendados, como este vídeo em outro idioma (japonês) e não possui nenhum tipo de mídia alternativa como legenda para entendermos o que estão falando no vídeo.
+  ![contra-exemplo de legenda em vídeos](Imagens/Heuristica2-contraexemplo.jpeg )
 
   ## 1.3 Adaptable
-  
+  Para melhor experiência de todo tipo de usuário, criar um ambiente em que seja compatível com uma tela pequena, sendo um celular, tablet, etc... até mesmo um computador com mais espaço na tela.
   ### Exemplo de boa utilização:
+  Um ótimo exemplo de adaptação mobile e desktop é o instagram, como podemos ver a seguir, o site possui tanto suporte para celulares quanto para computadores:
+  ## Versão Desktop
+  ![exemplo de compatibilidade](Imagens/Heuristica3-exemploDesktop.jpeg )
   
+  ## Versão Mobile
+  ![exemplo de compatibilidade](Imagens/Heuristica3-exemploMobile.jpeg )
+
   ### Contra exemplo:
+  Como mal exemplo de compatibilidade temos o SIGA, que quando no modo desktop as informações aparecem de tamanho normal, mas quando em modo mobile aparece grande demais para usuários usando um smartphone.
   
+  ## Versão Desktop
+  ![contra-exemplo de compatibilidade](Imagens/Heuristica3-contraexemploDesktop.jpeg )
+  
+  ## Versão Mobile
+  ![contra-exemplo de compatibilidade](Imagens/Heuristica3-contraexemploMobile.jpeg )
+
   
   ## 1.4 Distinguishable
   
