@@ -1,4 +1,4 @@
-Usando como base os tópicos descritos no site [[WCAG/W3C](https://www.w3.org/WAI/WCAG21/quickref/) cito aqui exemplos e contra-exemplos de cada heurística
+Usando como base os tópicos descritos no site da [WCAG/W3C](https://www.w3.org/WAI/WCAG21/quickref/) cito aqui exemplos e contra-exemplos de cada heurística
 
 # AVALIAÇÃO HEURISTICA
   # 1 - Perceivable
