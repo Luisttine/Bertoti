@@ -68,7 +68,7 @@ Usando como base os tópicos descritos no site da [WCAG/W3C](https://www.w3.org/
 
   ![Imagem mostrando acessiblidade pelo teclado no word](Imagens/Heuristica5-exemplo.png)
 
-  ### 2.4 Navigable - Level A 
+  ## 2.4 Navigable - Level A 
   Navegar pelo site de forma precisa e fazendo com que o usuário consiga encontrar o que ele precisa, é essencial para sua experiência de uso.
 
   ### Exemplo:
@@ -76,7 +76,7 @@ Usando como base os tópicos descritos no site da [WCAG/W3C](https://www.w3.org/
 
   ![Imagem mostrando o indíce navegável do Wikipedia](Imagens/Heuristica6-exemplo.png)
 
-  ## 3. Understable
+  # 3. Understable
   ## 3.1 Readable - Level A
   O conteúdo deve ser legível e compreensível para qualquer pessoa para melhor experiência.
 
@@ -90,15 +90,13 @@ No site de G1, como ele é de notícias, ou seja, utiliza-se bastante da linguag
 
   ![Mostrando que no site do SIGA as letras são quase ilegíveis](Imagens/Heuristica7-contraexemplo.png)
 
-  ### 3.2 Predictable:
+  ## 3.2 Predictable:
   As páginas Webs devem ser intuitivas e previsível pelo usuário.
 
   ### Exemplo:
   No site de vídeos Youtube, é fácil para o usuário saber, por exemplo, o que cada opção de reprodução de vídeo faz (pausar, volume, configurações, legendas etc.), se o vídeos está carregando (com um circulo rodando) ou, então, quanto tempo de vídeo já foi carregado (cinza mais claro):
 
   ![Imagem mostrando que o site do Youtube é intuitivo](Imagens/Heuristica8-exemplo.png)
-
-#### Contraexemplo:
 
 ## ⚙️ WCAG Levels
 WCAG uses three levels to distinguish the extent of compliance with WCAG 2.1, these levels being A, AA and finally AAA. This is what they represent:
