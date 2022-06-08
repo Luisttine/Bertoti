@@ -100,3 +100,13 @@ Usando como base os tópicos descritos no site https://www.w3.org/WAI/WCAG21/qui
   ### Exemplo de boa utilização:
   
   ### Contra exemplo:
+
+## ⚙️ WCAG Levels
+WCAG uses three levels to distinguish the extent of compliance with WCAG 2.1, these levels being A, AA and finally AAA. This is what they represent:
+
+A – Lowest level of compliancy.
+
+AA – Moderate level of compliancy and the most popular level.
+
+AAA – Full compliancy, although not many websites achieve this level as it is sometimes simply not possible to adhere to every single rule with some content.
+     
