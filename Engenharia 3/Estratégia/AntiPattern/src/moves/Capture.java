@@ -1,6 +1,6 @@
 package moves;
 
-public class Capture implements Actions{
+public class Capture extends Actions{
 
 	@Override
 	public void action() {

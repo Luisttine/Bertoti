@@ -1,6 +1,6 @@
 package moves;
 
-public class Right_Bottom_Move implements Actions {
+public class Right_Bottom_Move extends Actions {
 
 	@Override
 	public void action() {

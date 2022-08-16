@@ -1,5 +1,5 @@
 package moves;
 
-public interface Actions {
-	public void action();
+public abstract class Actions {
+	public void action() {}
 }
